@@ -45,7 +45,7 @@
 ## 📦 安装链接
 
 你可以直接从 JSDelivr CDN 安装最新版本的脚本：
-- 📥 [安装最新版](https://cdn.jsdelivr.net/gh/CreeperDisco/Robomaster-Forum-Enhance/script.js)
+- 📥 [安装最新版](https://cdn.jsdelivr.net/gh/CreeperDisco/Robomaster-Forum-Enhance/script.user.js)
 
 ## 👨‍💻 开发者
 
