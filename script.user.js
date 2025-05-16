@@ -6,8 +6,8 @@
 // @copyright    2025 CreeperDisco(https://github.com/CreeperDisco)
 // @homepage     https://github.com/CreeperDisco/
 // @homepageURL  https://github.com/CreeperDisco/Robomaster-Forum-Enhance
-// @updateURL    https://cdn.jsdelivr.net/gh/CreeperDisco/Robomaster-Forum-Enhance/script.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/CreeperDisco/Robomaster-Forum-Enhance/script.js
+// @updateURL    https://cdn.jsdelivr.net/gh/CreeperDisco/Robomaster-Forum-Enhance/script.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/CreeperDisco/Robomaster-Forum-Enhance/script.user.js
 // @author       CreeperDisco
 // @license      GPL-3.0
 // @supportURL   https://github.com/CreeperDisco/Robomaster-Forum-Enhance/issues
