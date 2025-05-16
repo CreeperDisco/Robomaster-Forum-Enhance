@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  增强Robomaster论坛体验，自动签到和清除失效评论
+// @copyright    2025 CreeperDisco(https://github.com/CreeperDisco)
 // @homepage     https://github.com/CreeperDisco/
 // @homepageURL  https://github.com/CreeperDisco/Robomaster-Forum-Enhance
 // @updateURL    https://cdn.jsdelivr.net/gh/CreeperDisco/Robomaster-Forum-Enhance/script.js
